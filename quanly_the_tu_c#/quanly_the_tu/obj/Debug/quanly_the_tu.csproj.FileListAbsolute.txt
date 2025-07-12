@@ -1,0 +1,67 @@
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\quanly_the_tu.exe.config
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Debug\quanly_the_tu.Form1.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Debug\quanly_the_tu.Form2.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Debug\quanly_the_tu.Properties.Resources.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Debug\quanly_the_tu.csproj.GenerateResource.Cache
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Debug\quanly_the_tu.Form3.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\AForge.dll
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\AForge.Video.dll
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\AForge.xml
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\AForge.Video.xml
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.exe.config
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.dll
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.dll
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.xml
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.xml
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form1.resources
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form2.resources
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Properties.Resources.resources
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form3.resources
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.csproj.GenerateResource.Cache
+C:\Users\WIN10\Desktop\đồ án\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.csprojResolveAssemblyReference.cache
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.exe.config
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.dll
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.dll
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.xml
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.xml
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.csprojResolveAssemblyReference.cache
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form1.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form2.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Properties.Resources.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form3.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.csproj.GenerateResource.Cache
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.exe.config
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.exe
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\quanly_the_tu.pdb
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.dll
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.dll
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.xml
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.xml
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.csprojResolveAssemblyReference.cache
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form1.resources
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form2.resources
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Properties.Resources.resources
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.Form3.resources
+C:\Users\WIN10\Desktop\C#\quanly_the_tu_c#\quanly_the_tu\obj\Debug\quanly_the_tu.csproj.GenerateResource.Cache

@@ -1,0 +1,61 @@
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+Library=
+LinkerScript=
+[defines]
+enabled=0
+chip=1
+D1=
+V1=
+[fileformats]
+forcecoff=0
+debug=4
+error=2
+object=0
+list=0
+scratch=0
+sta=1
+tre=1
+allerrors=1
+allwarnings=1
+stayupne=3
+stayupoe=0
+[PROJECT]
+Target=PIC_COM_RC522.hex
+Development_Mode=
+Processor_Text=PIC16F877A
+ToolSuite=CCS
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+FileList=PIC_COM_RC522.c
+[PIC_COM_RC522.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=PIC_COM_RC522.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[CompilerVersion]
+Fixed=
+[Opened Files]
+1=PIC_COM_RC522.c
+2=
+[Units]
+Count=1
+1=PIC_COM_RC522 (main)
+
+[ProjectLog]
+Days=1
+D1=12-07-2025
+D1_L=2
+D1_L1=[50868]Project Opened.
+D1_L2=[50921]Project Closed.

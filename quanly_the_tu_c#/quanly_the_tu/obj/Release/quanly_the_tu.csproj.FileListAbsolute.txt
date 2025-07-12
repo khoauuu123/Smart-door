@@ -1,0 +1,6 @@
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\bin\Release\quanly_the_tu.exe.config
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Release\quanly_the_tu.Form1.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Release\quanly_the_tu.Form2.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Release\quanly_the_tu.Properties.Resources.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Release\quanly_the_tu.Form3.resources
+C:\Users\WIN10\Desktop\BT_c#\quanly_the_tu\quanly_the_tu\obj\Release\quanly_the_tu.csproj.GenerateResource.Cache
